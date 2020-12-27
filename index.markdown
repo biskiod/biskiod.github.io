@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+This is Chase Yakaboski's (a.k.a. Biskiod's) blog site. It is a work in progress and I hope to eventually host all my personal notes on this site for easy reference. If you have happened upon it, I hope something in this site might be helpful.
+
+
