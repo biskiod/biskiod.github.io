@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Best WSL Setup Ever!"
+title:  "The Best WSL 1 Setup"
 date:   2020-12-27 00:00:00 -0500
 categories: wsl
 ---
